@@ -1,0 +1,4 @@
+coef=[16.76189069] bias=[69.89154069]
+
+* Since using data themselves diverged even utlizing alpha=0.0001 at some point, I used Z-Normalization to scale
+the data and that met the needs. This might have resulted in a different coefficient and intercept.

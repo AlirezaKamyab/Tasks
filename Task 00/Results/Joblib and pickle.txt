@@ -1,0 +1,2 @@
+Joblib works faster with huge arrays specially numpy arrays since it uses parallel computations.
+Although pickle has been written in C language and it is faster on other data types and small arrays.
